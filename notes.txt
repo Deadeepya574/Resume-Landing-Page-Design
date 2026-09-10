@@ -1,4 +1,4 @@
 learnt 
 1. css width , horizontal size , inner content area excluding padding and margin , width auto means browser given widht based on element type and space available .
 2. width lengths ( px, em rem ) give absolute width , % sets width relative to width of parent container element , viewport Width(vw) sets width relative to browser window size 
-3 . max-content then element will expand to its ideal size, ignoring layouts restrictions and min-content then 
+3 . max-content then element will expand to its ideal size, ignoring layouts restrictions and min-content then elemetn shrinks to the smallest height possible without overflowing 

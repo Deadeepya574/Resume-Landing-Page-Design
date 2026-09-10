@@ -9,3 +9,7 @@ body{
     background: #efefef;
 
 }
+.profile-img {
+    width: 40%;
+    float: right;
+}

@@ -1,0 +1,2 @@
+learnt 
+1. css width , horizontal size , inner content area excluding padding 
